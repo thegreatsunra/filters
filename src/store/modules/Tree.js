@@ -1,6 +1,6 @@
-const state = {
+import filterTree from '@/filterTree'
 
-}
+const state = filterTree
 
 const mutations = {
 }
